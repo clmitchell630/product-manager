@@ -28,7 +28,7 @@ The database will update with the new stock amount for that item.
     -   This will start the app and show you a table with all of the available items for purchase. 
 
 
-![alt text](/images/launch.png "app at launch")
+![alt text](./images/launch.png "app at launch")
 
 
 2.  Bamazon will ask two questions:
@@ -38,10 +38,10 @@ The database will update with the new stock amount for that item.
         -   Answer with the number that you would like to purchase.
 
 
-![alt text](/images/questions.png "app questions")
+![alt text](./images/questions.png "app questions")
 
 
 3.  After answering the two questions, Bamazon will display what you have purchased.
 
 
-![alt text](/images/purchased.png "app questions")
+![alt text](./images/purchased.png "app questions")
