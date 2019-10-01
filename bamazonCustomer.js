@@ -48,7 +48,7 @@ function purchasePrompt() {
 
                 console.table(res);
 
-                if (answer.units < res[0].stock_quantity) {
+                if (answer.units <= res[0].stock_quantity) {
 
                     var maths = res[0].stock_quantity - answer.units;
                     var priceMaths = res[0].price * answer.units;
